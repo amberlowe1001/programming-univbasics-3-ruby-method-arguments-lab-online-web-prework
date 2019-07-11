@@ -1,6 +1,6 @@
-def introduction =["Hi, my name is your +{name}]
+def introduction =["Hi, my name is your] + {name}
 name = amber
-puts "Hi my name is" + name
+puts "Hi my name is amber
 
   end
 end
